@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1832,6 +1832,18 @@ body {
 .cid-rh5iWfuYIp .mbr-section-subtitle DIV {
   text-align: center;
 }
+.cid-rh5IJFyZAd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-rh5IJFyZAd .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ffffff;
+}
+.cid-rh5IJFyZAd .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rh5tu2vNzL {
   padding-top: 75px;
   padding-bottom: 15px;
@@ -1869,7 +1881,7 @@ body {
 }
 .cid-rh5eJ4wOCL {
   padding-top: 30px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-rh5eJ4wOCL .title {
@@ -1899,18 +1911,6 @@ body {
 }
 .cid-rh5eJ4wOCL H2 {
   color: #ffffff;
-}
-.cid-rh5IJFyZAd {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #000000, #000000);
-}
-.cid-rh5IJFyZAd .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ffffff;
-}
-.cid-rh5IJFyZAd .social-list a:focus {
-  text-decoration: none;
 }
 .cid-rh5cj7y0Zn {
   padding-top: 30px;
