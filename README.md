@@ -1,2 +1,1 @@
-# lenzfliker.github.io
-GitHub Pages
+# lenzfliker.com
