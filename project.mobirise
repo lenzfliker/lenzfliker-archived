@@ -28,8 +28,7 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#000000",
-        "#434343"
+        "#000000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -41,7 +40,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 42,
+    "uniqCompNum": 44,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "witsec-white-label": "on",
@@ -56,7 +55,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<!-- Hotjar Tracking Code for https://lenzfliker.github.io -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:1198598,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
